@@ -8,8 +8,8 @@ body,html{
 	background: url(../Img/fondo.gif) repeat;
 }
 .menu{
-	background: #FFA319;
-	padding: 6px;
+	background-color: red;
+	padding: 6px ;
 	margin-top: 16px;
 	text-align: center;
 	-webkit-box-shadow: 7px 7px 9px rgba(50, 50, 50, 0.58);
@@ -18,10 +18,10 @@ body,html{
 }
 .menu li{
 	display: inline;
-	padding:7px 5px;
+	padding:9px 5px;
 }
 .menu li:hover{
-	background: #FFFFFF;
+	background-color: crimson;
 }
 .menu li a{
 	font-weight: bold;
@@ -59,3 +59,9 @@ body,html{
  	clear: both;
 	float: right;
  }
+
+p{
+    font-size: 16px;
+    font-weight: 200;
+    color: blueviolet;
+}
