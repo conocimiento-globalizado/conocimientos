@@ -65,3 +65,17 @@ p{
     font-weight: 200;
     color: blueviolet;
 }
+.orange{
+    background-color: orange;
+    color: black;
+}
+
+.violet{
+    background-color:violet;
+    color: white;
+}
+
+.green{
+    background-color: green;
+    color: blue;
+}

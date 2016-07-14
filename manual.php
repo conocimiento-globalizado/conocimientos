@@ -17,11 +17,13 @@
 	<div class="contenido">
 	<!-- como se puede ver se pueden crear paginas con HTML-->
 	<h1>Manual de Contenidos</h1>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
+	<p class="orange">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
 	
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
+	<p class="violet">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
 	
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
+	<p class="green">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
+	
+	
 	
 		
 	</div><!-- fin contenido-->
