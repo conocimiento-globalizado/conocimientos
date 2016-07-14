@@ -23,6 +23,8 @@
 	
 	<p class="green">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
 	
+	<p class="black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, mollitia sit. Asperiores non officia eius corporis reprehenderit, error rem repudiandae fugiat nemo ipsa itaque voluptatum, eaque, molestias consequuntur ullam incidunt.</p>
+	
 	
 	
 		
