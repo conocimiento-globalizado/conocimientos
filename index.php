@@ -8,7 +8,7 @@
 <body>
 <div class="contenedor">
 	<header>
-		<h1>Sitio Web</h1>
+		<h1>Sitio Web de ISAAC</h1>
 		<p>Aplicando conocimiento</p>
 		<!-- comienza el menu -->
 		<?php include "modulos/menu.php"; ?>
