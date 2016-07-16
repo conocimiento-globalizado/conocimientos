@@ -22,6 +22,14 @@
 		<li>Formulario de Contacto</li>
 	</ul><br>
 	<p>Además en este sitio se va a aplicar los conocimientos en PHP para un desarollo más productivo.</p>
+	
+	<p>Bienvenido al sitio Web, aquí puede utilizar diversas herramientas como:</p>
+	<ul>
+		<li>Convertidor de kilos a libras</li>
+		<li>Formulario de Contacto</li>
+	</ul><br>
+	<p>Además en este sitio se va a aplicar los conocimientos en PHP para un desarollo más productivo.</p>
+	
 	</div><!-- fin contenido-->
 
 	<footer>
